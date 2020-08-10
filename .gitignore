@@ -5,7 +5,8 @@ vectors.bin*
 text2vec
 bivec
 runCLDC
-output/*
+demo/*
+output_example/*
 cldc/data/*
 *compute-accuracy
 *distance
@@ -13,6 +14,7 @@ cldc/data/*
 *word2phrase
 *word2vec
 data/*
+data_example/*
 *.ps
 *.out
 *.swp
